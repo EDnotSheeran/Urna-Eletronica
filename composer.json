@@ -1,0 +1,15 @@
+{
+    "name": "vendor/urna",
+    "description": "projeto de urna eletronica para diversos propositos",
+    "type": "project",
+    "license": "unlicenced",
+    "authors": [
+        {
+            "name": "EDnotSheeran",
+            "email": "juninho.tab3@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
